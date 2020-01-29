@@ -1,0 +1,31 @@
+
+.tooltipBtn {
+    border: 1px solid black;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: rgb(53, 53, 53);
+    outline: none;
+    margin: 5px;
+    transition: 0.5s;
+    overflow: hidden;
+    font-family: 'Bitter', serif;
+}
+
+#prevBtn, #nextBtn {
+    outline: none;
+    font-weight: bold;
+}
+
+#prevBtn:hover,#nextBtn:hover {
+    color: white;
+    background-color: black;
+}
+
+.btnDiv {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}

@@ -1,0 +1,25 @@
+.imgStyle {
+    width: 100%;
+    height: 55vh;
+}
+
+.descripStyle {
+    color: white;
+    
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.imageTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.imageDescrip {
+    text-align: justify;
+    font-family: 'Bitter', serif;
+    font-size: 2vmin;
+}
